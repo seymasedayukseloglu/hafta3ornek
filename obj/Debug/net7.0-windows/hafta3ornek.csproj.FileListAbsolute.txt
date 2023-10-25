@@ -1,0 +1,16 @@
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\bin\Debug\net7.0-windows\hafta3ornek.exe
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\bin\Debug\net7.0-windows\hafta3ornek.deps.json
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\bin\Debug\net7.0-windows\hafta3ornek.runtimeconfig.json
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\bin\Debug\net7.0-windows\hafta3ornek.dll
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\bin\Debug\net7.0-windows\hafta3ornek.pdb
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.Form1.resources
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.csproj.GenerateResource.cache
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.AssemblyInfoInputs.cache
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.AssemblyInfo.cs
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.csproj.CoreCompileInputs.cache
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.dll
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\refint\hafta3ornek.dll
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.pdb
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\hafta3ornek.genruntimeconfig.cache
+C:\Users\seyma\OneDrive\Masaüstü\visual studio\hafta3ornek\obj\Debug\net7.0-windows\ref\hafta3ornek.dll
